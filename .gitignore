@@ -1,0 +1,6 @@
+./ecommerce-backend-nodejs/.env
+./ecommerce-backend-nodejs/vercel.json
+./ecommerce-backend-nodejs/.gitignore
+./ecommerce-backend-nodejs/node_modules
+./ecommerce-frontend-react/.env
+./ecommerce-backend-nodejs/.gitignore
